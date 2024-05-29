@@ -1,12 +1,12 @@
 {
-    "name": "darryldecode/cart",
+    "name": "sohaib-wajid/laravelshoppingcart",
     "description": "Laravel 5 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darryl Fernandez",
-            "email": "engrdarrylfernandez@gmail.com"
+            "name": "Sohaib Wajid Bux Siddiqui",
+            "email": "sohaib.s@horizontech.biz"
         }
     ],
     "require": {
